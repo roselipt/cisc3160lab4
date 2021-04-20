@@ -8,6 +8,8 @@ module Main where
 
 
 
+
+    --main needs a value to compile
     main = undefined
 
 {-       RESULTS
