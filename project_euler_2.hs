@@ -37,9 +37,9 @@ module Main where
 {-    RESULTS
 
 evenSum 10 produces 44, which was a test
-lastTerm 1 produces 32 (last term less than 4 million)
+lastTerm 1 produces 32 (last term by index less than 4 million)
 (fibNth 32 produces 3 524 578)
-evenSum 32 produces 4 613 732
+evenSum 32 produces 4 613 732, confirmed correct at project euler!
     
 -}
     --  main needs a value to compile
