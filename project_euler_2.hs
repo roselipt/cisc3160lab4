@@ -18,6 +18,7 @@ module Main where
 
     fibNth x = head (drop (x-1) (take (x) fib))
 
+    --My work starts here
     --Need a function to return fib number from this sequence nearest but less than 4 000 000
     upperBound = 4000000
     lastTerm x = if fibNth x >= upperBound
@@ -36,7 +37,7 @@ module Main where
 
 {-    RESULTS
 
-evenSum 10 produces 44, which was a test
+evenSum 10 produces 44, which was a test for my own comfort
 lastTerm 1 produces 32 (last term by index less than 4 million)
 (fibNth 32 produces 3 524 578)
 evenSum 32 produces 4 613 732, confirmed correct at project euler!
