@@ -9,6 +9,7 @@ Summary:
 
 I wish this were more complete, but the process has been great for me.
 6 Project Euler problems solved in javascript
+
 3 in Haskell (1,2,4) though I may crack another before the deadline!
 Unfortunately they are in various states of cleanup and documentation. I'll leave my comments to the reflection.
 
@@ -55,8 +56,10 @@ https://eloquentjavascript.net/index.html
 to understand the choices he makes.
 
 w3schools.com
+
 -- Great index on the left hand side. Best quick look up of basics.
 
 
 https://ilovecoding.org/blog/js-cheatsheet
+
 -- Like my third Haskell reference, this is where I went to scan style when I was stumped.
